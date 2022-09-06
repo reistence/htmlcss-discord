@@ -49,6 +49,7 @@ header {
   border: none;
   padding: 1em 1.5em;
   border-radius: 20px;
+  font-size: 1rem;
 }
 
 /* JUMBO */
@@ -233,7 +234,7 @@ h5 {
 }
 
 hr {
-  height: 2px;
+  height: 1px;
   background-color: #255ee9;
   border: none;
   width: 80%;
