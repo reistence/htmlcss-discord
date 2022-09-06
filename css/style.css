@@ -94,9 +94,11 @@ header {
 
 /* MAIN */
 /* WAVES */
-#wave-1hkxOo {
-  margin-top: -1em;
+
+section svg {
+  margin: -1em;
 }
+
 #upside {
   background-color: #f6f6f6;
 }
