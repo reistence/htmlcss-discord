@@ -97,10 +97,12 @@ header {
 
 section svg {
   margin: -1em;
+  fill: #f6f6f6;
 }
 
 #upside {
   background-color: #f6f6f6;
+  fill: white;
 }
 
 /* SECTION */
